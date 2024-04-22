@@ -2,8 +2,9 @@
 
 This guide provides instructions for setting up and running the backend and frontend of an e-commerce project using Node.js, MongoDB, and React.
 
-## Backend Setup
+## Setup
 
+## Backend Setup
 Navigate to the backend directory:
 ```bash
 cd ecomern-backend
